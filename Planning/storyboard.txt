@@ -51,6 +51,21 @@ Death/After-Life
 ----------------
 
 
+=======================================================================================================
+
+
+
+Gameplay Loop
+-------------
+
+Cards: Represent Objects of Sacrifice
+Tools: Used to Acquire Cards
+Channels: Vectors through which a Sacrifice is made
+
+
+
+
+
 
 
 
