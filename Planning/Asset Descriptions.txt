@@ -1,0 +1,37 @@
+---------------------
+Card Name: Blank Card
+Description: Can be turned into any card given a recipe/ritual
+Location: General Stores
+---------------------
+Card Name: Minor Heal
+Description: Heals --% for one ally
+Location:
+---------------------
+Card Name: Major Heal
+Description: Heals --% for one ally
+Location:
+---------------------
+Card Name: 
+Description: 
+Location:
+---------------------
+Card Name: 
+Description: 
+Location:
+---------------------
+Card Name: 
+Description: 
+Location:
+---------------------
+Card Name: 
+Description: 
+Location:
+---------------------
+Card Name: 
+Description: 
+Location:
+---------------------
+Card Name: 
+Description: 
+Location:
+---------------------
