@@ -11,16 +11,16 @@ Card Name: Major Heal
 Description: Heals --% for one ally
 Location:
 ---------------------
-Card Name: 
-Description: 
+Card Name: Resurrection
+Description: Revive a party member
 Location:
 ---------------------
-Card Name: 
-Description: 
+Card Name: Turn Skip
+Description: Skips turn
 Location:
 ---------------------
-Card Name: 
-Description: 
+Card Name: Turn Rewind
+Description: Allows an extra turn
 Location:
 ---------------------
 Card Name: 
