@@ -22,16 +22,36 @@ Location:
 Card Name: Turn Rewind
 Description: Allows an extra turn
 Location:
----------------------
-Card Name: 
-Description: 
-Location:
----------------------
-Card Name: 
-Description: 
-Location:
----------------------
-Card Name: 
-Description: 
-Location:
----------------------
+Card ideas
+
+Name: Major Heal
+Image: Large Red Flower
+Description: Heals all party members 
+
+Name: Minor Heal 
+Image: Small Red Flower
+Description: Heals one party member 
+
+Name: Major Poison 
+Image: Green Bottle (Square Base) 
+Description: Poison all Enemies 
+
+Name: Minor Poison 
+Image: Green Bottle (Triangle Base) 
+Description: Poison one enemy 
+
+Name: Major Burn 
+Image: Large Campfire
+Description: Applies Burn to all enemies
+
+Name: Minor Burn
+Image: Matchstick 
+Description: Applies Burn to one enemy 
+
+Name: Major Boulder
+Image: Large Rock going down mountain 
+Description: Applies a Stun to all enemies
+
+Name: Minor Boulder 
+Image: Small Rock 
+Description: Applies Stun to one enemy
