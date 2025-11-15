@@ -35,8 +35,11 @@
   },
   "name":"Sands",
   "resources":[
+    {"id":{"name":"Card","path":"objects/Card/Card.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"Default_Card","path":"sprites/Default_Card/Default_Card.yy",},},
     {"id":{"name":"Spr_Player_Type_1","path":"sprites/Spr_Player_Type_1/Spr_Player_Type_1.yy",},},
   ],
   "resourceType":"GMProject",

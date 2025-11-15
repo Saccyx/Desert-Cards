@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"Card",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_player",
+  "name":"Card",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Player_Type_1",
-    "path":"sprites/Spr_Player_Type_1/Spr_Player_Type_1.yy",
+    "name":"Default_Card",
+    "path":"sprites/Default_Card/Default_Card.yy",
   },
   "spriteMaskId":null,
   "visible":true,
